@@ -1,0 +1,23 @@
+# --- Laravel / Backend ---
+backend/vendor/
+backend/.env
+backend/.env.backup
+backend/public/storage
+backend/storage/*.key
+
+# --- Flutter / Mobile ---
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.idea/
+mobile/build/
+mobile/.pub-cache/
+mobile/pubspec.lock
+
+# --- OS & Editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.swo
+*~
